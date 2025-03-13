@@ -26,5 +26,14 @@ To uncover differences in bike usage between casual riders and annual members, s
    - Addresses 538K summer casual rides.  
 3. **3-Hour Ride Limit for Annual Members**  
    - Aligns with casual riders’ longer average ride duration.  
+![Image](https://github.com/user-attachments/assets/351a54bb-26cc-4f16-ba2b-59d29f1f3935)
+
+
+##Before Processing in SQL:
+![Image](https://github.com/user-attachments/assets/81d0cf82-7ad9-4720-afd3-030776fceea2)
+
+##After Processing in SQL:
+![Image](https://github.com/user-attachments/assets/b29e72fa-bec4-4aaf-abbe-af5d4408c583)
+
 
  
