@@ -4,9 +4,8 @@
 To uncover differences in bike usage between casual riders and annual members, supporting data-driven strategies to increase membership conversions.  
 
 ## Tools Used  
-- **Data Cleaning & Processing**: Excel, SQL  
-- **Analysis**: R (dplyr, ggplot2)  
-- **Visualization**: Tableau  
+- **Data Processing and Analysis**: Excel, SQL    
+- **Visualization**: PowerBI  
 
 ## Overview  
 - **Dataset**: 12 months of Cyclistic trip data (3.7M rides).  
