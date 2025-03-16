@@ -1,6 +1,6 @@
 # Credit Card Fraud Detection
 
-This project aims to detect fraudulent credit card transactions using [mention key algorithms/techniques].  It utilizes a dataset and explores various techniques for data preprocessing, model training, model evaluation.
+This project aims to detect fraudulent credit card transactions using Random Forest Classification.  It utilizes a dataset and explores various techniques for data preprocessing, model training, model evaluation.
 
 ## Table of Contents
 
