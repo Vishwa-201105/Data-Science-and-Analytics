@@ -36,7 +36,7 @@ To analyze user comments from a YouTube channel and uncover sentiment trends, au
 - Introduce keyword extraction
 - Analyze subscriber growth + demographics
 
-## Demo Dashboard / Screenshots
+## Screenshots
 ![Image](https://github.com/user-attachments/assets/9a144e2f-e309-483e-8156-d588380c50a0)
 ![Screenshot 2025-04-09 191748](https://github.com/user-attachments/assets/80de034f-2b3c-4061-9e66-49ade6fdc27a)
 ![Image](https://github.com/user-attachments/assets/3fa4d8f8-aff7-4abc-992e-ab19e66daa75)
