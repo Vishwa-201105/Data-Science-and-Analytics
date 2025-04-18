@@ -5,7 +5,7 @@ To analyze user comments from a YouTube channel and uncover sentiment trends, au
 
 ## Tools & Technologies
 - Python (Pandas, TextBlob)
-- Google Cloud YouTube Data API v3
+- Google Cloud YouTube Data API v3 
 - Google Sheets for data cleaning
 - Power BI for interactive dashboards
 
