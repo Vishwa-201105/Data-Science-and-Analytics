@@ -34,7 +34,7 @@ This project uses **historical delivery data** and features such as **distance, 
 ---
 
 ##  Project Structure  
- Quick-Commerce-Delivery-Time-Prediction 
+ Food-Delivery-Time-Prediction 
 - 📜 app.py # Streamlit dashboard
 - 📜 model.pkl # Trained ML model
 - 📜 data.csv # Dataset used (if available)
