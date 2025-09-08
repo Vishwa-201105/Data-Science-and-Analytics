@@ -22,7 +22,7 @@ This project uses **historical delivery data** and features such as **distance, 
 
 ---
 
-## 🏗 Tech Stack  
+##  Tech Stack  
 
 - **Python 3.9+**  
 - **Libraries:**  
@@ -34,7 +34,7 @@ This project uses **historical delivery data** and features such as **distance, 
 ---
 
 ##  Project Structure  
-** Quick-Commerce-Delivery-Time-Prediction **
+ Quick-Commerce-Delivery-Time-Prediction 
 - 📜 app.py # Streamlit dashboard
 - 📜 model.pkl # Trained ML model
 - 📜 data.csv # Dataset used (if available)
